@@ -1,19 +1,8 @@
-# React Skeleton
+# ANDcatalogue Web Application
 
-A bare bones React template using Express, suitable for use with Docker.
+This is the repository for the ANDcatalogue web application built in React.
 
-## How to use:
+**Installation**
 ```
 npm install
-```
-To run in development:
-```
-npm dev
-#in a seperate terminal window
-npm start
-```
-
-To build for production:
-```
-npm build
 ```
