@@ -1,7 +1,7 @@
 {
-  "name": "andigital.catalogue.web",
+  "name": "react-skeleton",
   "version": "1.0.0",
-  "description": "This is the repository for the ANDcatalogue web application built in React.",
+  "description": "Basic react skeleton, with Nightwatch and Mocha/Chai for testing.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,14 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANDigital/andigital.catalogue.web.git"
+    "url": "git+https://github.com/and-sophie/react-skeleton"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ANDigital/andigital.catalogue.web/issues"
-  },
-  "homepage": "https://github.com/ANDigital/andigital.catalogue.web#readme",
+  "homepage": "https://github.com/and-sophie/react-skeleton#readme",
   "dependencies": {
     "express": "^4.14.1"
   },
